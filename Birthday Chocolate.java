@@ -1,4 +1,5 @@
-  static int birthday(List<Integer> s, int d, int m) {
+//solve in O(n)  
+static int birthday(List<Integer> s, int d, int m) {
         int count=0,sum=0,p=0,k=0;
         for(int i=0;i<s.size();i++)
         {   
