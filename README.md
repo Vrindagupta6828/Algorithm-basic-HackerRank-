@@ -1,2 +1,2 @@
 # Algorithm-basic-HackerRank-
-It contains medium level questions of hackerreank
+It contains medium level questions of hackerreank(DS ALGO)
