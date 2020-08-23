@@ -12,7 +12,7 @@ possible, print NO.
 For example, the people in line have loaves B=[4,5,6,7]. We can first give a loaf to i=3 and i=4 so B=[4,5,7,8] . Next we give a loaf to i=2 and i=3 and have B=[4,6,8,8] which
 satisfies our conditions. We had to distribute 4 loaves.
 
-<h2>Function Description<h2>
+Function Description
 
 Complete the fairRations function in the editor below. It should return an integer that represents the minimum number of loaves required.
 
@@ -20,7 +20,7 @@ fairRations has the following parameter(s):
 
 B: an array of integers that represent the number of loaves each persons starts with . */
 
-<h2>Solution<h2>
+//Solution
 
  static int fairRations(int[] B) {
        int sum=0,count=0;
